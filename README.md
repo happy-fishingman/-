@@ -70,7 +70,7 @@
 *   **个人职责:** 独立完成项目的设计、编码、训练。
 *   **简介:** 课设要求把fastspeech模型集成到一个工具项目中，因为论文有源码，集成难度并不大。
 *   **链接:** 
-    *   [源码与项目介绍]
+    *   [源码与项目介绍](https://github.com/happy-fishingman/talkingface-toolkit)
     *   [演示视频](https://youtu.be/aRh5F_5jrao)
 
 <a id="project-qt-chat"></a>
